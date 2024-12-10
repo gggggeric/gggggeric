@@ -9,23 +9,28 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout the repository
         uses: actions/checkout@v3
 
+      # Step 2: Generate the Snake Game SVG
       - name: Generate Snake Game
         uses: Platane/snk@master
         with:
           github_user: 'gggggeric'
           image: true
-          svg_path: 'snake.svg'  # Save the file to the root directory
+          svg_path: 'snake.svg'  # Save file to the root directory
 
-      - name: Verify File Generation
+      # Step 3: Verify that the file was generated
+      - name: Debug File Location
         run: |
-          echo "Checking if snake.svg was generated..."
+          echo "Listing all files to locate snake.svg..."
+          find . -name '*.svg' -print
           ls -la
-          cat snake.svg
-        continue-on-error: true  # Continue even if there are errors
+          echo "Checking snake.svg content (if found)..."
+          cat snake.svg || echo "snake.svg not found or empty."
 
+      # Step 4: Commit and Push the Snake Game SVG
       - name: Commit and Push Snake Game
         run: |
           echo "Committing and pushing snake.svg..."
