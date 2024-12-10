@@ -13,7 +13,7 @@
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React-native</p>
 
 
-![snake game](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/main/.github/workflows/snake.svg)
+![snake game](https://raw.githubusercontent.com/gggggeric/gggggeric/main/.github/workflows/snake.svg)
 
 
 ###
