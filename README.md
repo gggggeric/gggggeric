@@ -12,6 +12,10 @@
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React-native</p>
 
+
+![snake game](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/main/.github/workflows/snake.svg)
+
+
 ###
 
 <h2 align="left">I code with</h2>
