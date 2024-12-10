@@ -15,8 +15,6 @@
 
 
 
-![snake game](https://raw.githubusercontent.com/gggggeric/gggggeric/main/snake.svg)
-
 
 
 
