@@ -21,23 +21,27 @@ jobs:
           image: true
           svg_path: 'snake.svg'  # Save file to the root directory
 
-      # Step 3: Verify that the file was generated
+      # Step 3: Debugging - Locate the generated SVG file
       - name: Debug File Location
         run: |
-          echo "Listing all files to locate snake.svg..."
-          find . -name '*.svg' -print
-          ls -la
-          echo "Checking snake.svg content (if found)..."
-          cat snake.svg || echo "snake.svg not found or empty."
+          echo "Listing all files in the workspace..."
+          find . -type f
+          echo "Checking for snake.svg..."
+          ls -la snake.svg || echo "snake.svg not found."
 
-      # Step 4: Commit and Push the Snake Game SVG
+      # Step 4: Commit and Push the Snake Game SVG if it exists
       - name: Commit and Push Snake Game
+        if: success()  # Only attempt if previous steps succeeded
         run: |
-          echo "Committing and pushing snake.svg..."
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add snake.svg
-          git commit -m 'Updated snake.svg with latest contributions'
-          git push origin main
+          if [ -f "snake.svg" ]; then
+            echo "Committing and pushing snake.svg..."
+            git config --global user.name 'github-actions[bot]'
+            git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+            git add snake.svg
+            git commit -m 'Updated snake.svg with latest contributions'
+            git push origin main
+          else
+            echo "snake.svg not found. Skipping commit and push."
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
