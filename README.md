@@ -13,7 +13,9 @@
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React-native</p>
 
 
-![snake gif](https://github.com/gggggeric/gggggeric/blob/output/github-contribution-grid-snake.svg)
+### Snake Eating My Contributions 🐍
+
+![snake game](https://raw.githubusercontent.com/gggggeric/gggggeric/output/snake.svg)
 
 
 ###
