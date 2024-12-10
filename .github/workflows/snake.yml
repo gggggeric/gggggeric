@@ -17,9 +17,14 @@ jobs:
         with:
           github_user: 'gggggeric'
           image: true
-          svg_path: 'snake.svg'
+          svg_path: 'snake.svg'  # Ensure this matches where you want the file generated
+
+      - name: Verify File Generation
+        run: ls -la
+        continue-on-error: true  # Allow workflow to continue even if the file isn't found
 
       - name: Commit and Push Snake Game
+        if: success() && steps.generate.outputs.svg_path != ''  # Push only if the file is generated
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
