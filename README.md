@@ -1,5 +1,4 @@
 <h1 align="left">Hello World!</h1>
-###
 
 <p align="left">My name is Geric and I'm a student currently, from Technological University of the Philippines - Taguig</p>
 
