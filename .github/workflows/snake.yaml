@@ -1,7 +1,7 @@
 name: snake
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Update the game every 5 minutes (optional)
+    - cron: '*/5 * * * *'  
   push:
     branches:
       - main
@@ -15,5 +15,5 @@ jobs:
       - name: Play Snake Game
         uses: Platane/snk@master
         with:
-          github_user: 'YOUR_GITHUB_USERNAME' # Replace with your GitHub username
-          image: true  # Generates the image of the game
+          github_user: 'gggggeric' 
+          image: true  
