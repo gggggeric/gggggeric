@@ -1,9 +1,5 @@
 <h1 align="left">Hello World!</h1>
-
-### ![giphy](https://github.com/user-attachments/assets/2908f01f-5bb6-44fa-b6d8-b5b1f5c631f9)
-
 ###
-![meme](https://github.com/user-attachments/assets/13f612e7-8761-44ec-bba5-c04b657053e5)
 
 <p align="left">My name is Geric and I'm a student currently, from Technological University of the Philippines - Taguig</p>
 
@@ -15,7 +11,8 @@
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React-native</p>
 
-###
+###![ratchet-cat-reply-ratchet](https://github.com/user-attachments/assets/ffcbd4f3-3e8a-4bf4-b32f-bb83694e7f63)
+
 
 <h2 align="left">I code with</h2>
 
