@@ -44,6 +44,7 @@
 <p align="left">🚀 My current deployed projects are:</p>
 <ul>
   <li>🌐 <a href="https://cryptoguard-fec8.onrender.com/" target="_blank">CryptoGuard</a> - A tool for encrypting and decrypting files</li>
+    <li>🏫 <a href="https://upperbicutannationalhighschool-h86l.onrender.com" target="_blank">Upper Bicutan National High School</a> - A website mimicking the UBNHS school website </li>
 </ul>
 
 ###
