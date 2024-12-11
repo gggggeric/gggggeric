@@ -31,17 +31,19 @@
 
 
 
-
-
 ###
+
 <h2 align="left">About me</h2>
 
-###
 <p align="left" style="display: flex; align-items: center;">
   <span>👨‍💻 Information Technology student, from TUP - Taguig<br> ✨ Creating bugs since 2022<br>📚 Currently learning React Native and TypeScript 🚀<br>💻 Full Stack Developer</span>
   <img src="https://github.com/user-attachments/assets/ffcbd4f3-3e8a-4bf4-b32f-bb83694e7f63" alt="ratchet-cat-reply-ratchet" style="margin-left: 20px; max-height: 100px;">
-  <img src="https://github.com/user-attachments/assets/291c1606-2d18-4696-9ab7-f1112d7e814c" alt="starrynight" style="margin-left: 20px; max-height: 100px;">
 </p>
+
+<p align="left" style="display: flex; justify-content: flex-end;">
+  <img src="https://github.com/user-attachments/assets/291c1606-2d18-4696-9ab7-f1112d7e814c" alt="starrynight" style="max-height: 100px;">
+</p>
+
 
 ###
 <p align="left">🚀 My current deployed projects are:</p>
