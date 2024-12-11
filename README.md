@@ -1,5 +1,14 @@
 <h1 align="left">Hello World!</h1>
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gggggeric&show_icons=true&locale=en" alt="gggggeric" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gggggeric&" alt="gggggeric" /></p>
+
 <p align="left">My name is Geric and I'm a student currently, from Technological University of the Philippines - Taguig</p>
 
 ###
