@@ -31,13 +31,14 @@
 
 
 
-<p align="left">My name is Geric and I'm a 3rd year student, from Technological University of the Philippines - Taguig</p>
+
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
+<p align="left">3rd year student, from Technological University of the Philippines - Taguig</p>
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React-native and Type-script </p>
 
