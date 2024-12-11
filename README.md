@@ -3,8 +3,22 @@
 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gggggeric&show_icons=true&locale=en" alt="gggggeric" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gggggeric&" alt="gggggeric" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=gggggeric&show_icons=true&locale=en&theme=dark"
+      media="(prefers-color-scheme: dark)">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=gggggeric&show_icons=true&locale=en&theme=light" 
+      alt="gggggeric" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=gggggeric&theme=dark"
+      media="(prefers-color-scheme: dark)">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=gggggeric&theme=light" 
+      alt="gggggeric" />
+  </picture>
 </div>
 
 
