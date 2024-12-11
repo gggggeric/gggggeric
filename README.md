@@ -21,7 +21,7 @@
           media="(prefers-color-scheme: dark)">
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=gggggeric&theme=light" 
-          alt="gggggeric" width="200" />
+          alt="gggggeric" width="300" />
       </picture>
     </td>
   </tr>
