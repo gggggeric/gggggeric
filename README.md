@@ -5,21 +5,6 @@
 
 
 ###
-<h2 align="center">About me</h2>
-<p align="center">
-  👨‍💻 Information Technology student, from Technological University of the Philippines - Taguig<br> 
-  📚 Currently learning React Native and TypeScript 🚀<br> 
-  ✨ Creating bugs since 2022<br> 
-  💻 Full Stack Developer
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ffcbd4f3-3e8a-4bf4-b32f-bb83694e7f63" alt="ratchet-cat-reply-ratchet" style="max-height: 100px;">
-</p>
-
-
-
-###
 <div align="center">
   <table border="0" cellpadding="20">
     <tr>
@@ -48,6 +33,23 @@
 </div>
 
 ![snake gif](https://github.com/gggggeric/gggggeric/blob/output/github-snake-dark.svg)
+
+
+
+###
+<h2 align="center">About me</h2>
+<p align="center">
+  👨‍💻 Information Technology student, from Technological University of the Philippines - Taguig<br> 
+  📚 Currently learning React Native and TypeScript 🚀<br> 
+  ✨ Creating bugs since 2022<br> 
+  💻 Full Stack Developer
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ffcbd4f3-3e8a-4bf4-b32f-bb83694e7f63" alt="ratchet-cat-reply-ratchet" style="max-height: 100px;">
+</p>
+
+
 
 
 ###
