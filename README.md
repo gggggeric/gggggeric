@@ -53,10 +53,10 @@
 
 ###
 
-
 <h2 align="left">📬 Contact Me</h2>
 <p align="left">
-  📧 Email: <a href="mailto:gericmorit3211@gmail.com">Geric Morit</a><br>
-  🌍 Facebook: <a href="https://web.facebook.com/geric.morit.t/" target="_blank">Geric Morit</a>
+  📧 <a href="mailto:gericmorit3211@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Email_icon.svg" alt="Email" width="20" height="20"/> Geric Morit</a><br>
+  🌍 <a href="https://web.facebook.com/geric.morit.t/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="20" height="20"/> Geric Morit</a>
 </p>
+
 
