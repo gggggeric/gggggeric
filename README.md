@@ -34,7 +34,7 @@
 ###
 <h2 align="center">About me</h2>
 <p align="center">
-  👨‍💻 Information Technology student, from TUP - Taguig<br> 
+  👨‍💻 Information Technology student, from Technological University of the Philippines - Taguig<br> 
   📚 Currently learning React Native and TypeScript 🚀<br> 
   ✨ Creating bugs since 2022<br> 
   💻 Full Stack Developer
@@ -46,9 +46,9 @@
 
 
 ###
-<p align="left">🚀 My current deployed projects are:</p>
+<h3 align="left">My current deployed projects are: </h3>
 <ul>
-  <li>🌐 <a href="https://cryptoguard-fec8.onrender.com/" target="_blank">CryptoGuard</a> - A tool for encrypting and decrypting files</li>
+  <li>🛡️ <a href="https://cryptoguard-fec8.onrender.com/" target="_blank">CryptoGuard</a> - A tool for encrypting and decrypting files</li>
     <li>🏫 <a href="https://upperbicutannationalhighschool-h86l.onrender.com" target="_blank">Upper Bicutan National High School</a> - A website mimicking the UBNHS school website </li>
 </ul>
 
