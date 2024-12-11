@@ -38,8 +38,9 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">👨‍💻Information Technology student, from Technological University of the Philippines - Taguig</p>
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React Native and TypeScript 🚀</p>
+<p align="left">👨‍💻 3rd year Information Technology student, from Technological University of the Philippines - Taguig</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React Native and TypeScript 🚀<br>💻 I'm a Full Stack Developer</p>
+
 
 ![ratchet-cat-reply-ratchet](https://github.com/user-attachments/assets/ffcbd4f3-3e8a-4bf4-b32f-bb83694e7f63)
 
