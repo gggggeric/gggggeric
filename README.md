@@ -1,13 +1,4 @@
-<h1 align="left" style="animation: fadeIn 2s ease-in-out;">Hello World!</h1>
-
-<style>
-  @keyframes fadeIn {
-    0% { opacity: 0; transform: translateY(-20px); }
-    100% { opacity: 1; transform: translateY(0); }
-  }
-</style>
-
-
+<h1 align="left">Hello World!</h1>
 
 <table border="0">
   <tr>
