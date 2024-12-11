@@ -41,12 +41,14 @@
 
 ![ratchet-cat-reply-ratchet](https://github.com/user-attachments/assets/ffcbd4f3-3e8a-4bf4-b32f-bb83694e7f63) 
 
+![starrynight](https://github.com/user-attachments/assets/291c1606-2d18-4696-9ab7-f1112d7e814c)
 ###
 <p align="left">🚀 My current deployed projects are:</p>
 <ul>
   <li>🌐 <a href="https://cryptoguard-fec8.onrender.com/" target="_blank">CryptoGuard</a> - A tool for encrypting and decrypting files</li>
     <li>🏫 <a href="https://upperbicutannationalhighschool-h86l.onrender.com" target="_blank">Upper Bicutan National High School</a> - A website mimicking the UBNHS school website </li>
 </ul>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
