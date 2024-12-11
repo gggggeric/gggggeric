@@ -1,7 +1,7 @@
 <h1 align="left">Hello World!</h1>
 
 
-<table>
+<table border="0">
   <tr>
     <td>
       <picture>
@@ -25,6 +25,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <p align="left">My name is Geric and I'm a 3rd year student, from Technological University of the Philippines - Taguig</p>
