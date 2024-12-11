@@ -35,7 +35,10 @@
 ![ratchet-cat-reply-ratchet](https://github.com/user-attachments/assets/ffcbd4f3-3e8a-4bf4-b32f-bb83694e7f63)
 
 ###
-<p align="left">🚀 My current deployed projects are: 🌐 <a href="https://cryptoguard-fec8.onrender.com/" target="_blank">CryptoGuard</a> Its a tool for Encrypting and Decrypting files</p>
+<p align="left">🚀 My current deployed projects are:</p>
+<ul>
+  <li>🌐 <a href="https://cryptoguard-fec8.onrender.com/" target="_blank">CryptoGuard</a> - A tool for encrypting and decrypting files</li>
+</ul>
 
 ###
 <h2 align="left">I code with</h2>
