@@ -63,10 +63,10 @@
 <a href="mailto:gericmorit3211@gmail.com">
   <img align="center" src="https://i.ibb.co/C9ZhdpW/gmail-logo.png" alt="Gmail" height="40" width="40" />
 </a>
-
-
-
-
 </p>
+
+
+![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=$.count&url=https://api.countapi.xyz/hit/gggggeric/visitor)
+
 
 
