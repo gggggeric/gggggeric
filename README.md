@@ -3,7 +3,6 @@
 </div>
 
 
-
 <table border="0">
   <tr>
     <td>
@@ -19,10 +18,10 @@
     <td>
       <picture>
         <source 
-          srcset="https://github-readme-streak-stats.herokuapp.com/?user=gggggeric&theme=dark"
+          srcset="https://github-readme-languages.vercel.app/api?username=gggggeric&theme=dark"
           media="(prefers-color-scheme: dark)">
         <img 
-          src="https://github-readme-streak-stats.herokuapp.com/?user=gggggeric&theme=light" 
+          src="https://github-readme-languages.vercel.app/api?username=gggggeric&theme=light" 
           alt="gggggeric" />
       </picture>
     </td>
