@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+World!;+My+name+is+Geric+Morit;+Welcome+to+my+profile!" />
 </div>
 
-
 <table border="0">
   <tr>
     <td>
@@ -12,7 +11,7 @@
           media="(prefers-color-scheme: dark)">
         <img 
           src="https://github-readme-stats.vercel.app/api?username=gggggeric&show_icons=true&locale=en&theme=light" 
-          alt="gggggeric" />
+          alt="gggggeric" width="400" />
       </picture>
     </td>
     <td>
@@ -22,11 +21,12 @@
           media="(prefers-color-scheme: dark)">
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=gggggeric&theme=light" 
-          alt="gggggeric" />
+          alt="gggggeric" width="400" />
       </picture>
     </td>
   </tr>
 </table>
+
 
 
 
