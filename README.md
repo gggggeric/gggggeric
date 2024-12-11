@@ -18,15 +18,16 @@
     <td>
       <picture>
         <source 
-          srcset="https://github-readme-languages.vercel.app/api?username=gggggeric&theme=dark"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gggggeric&theme=dark"
           media="(prefers-color-scheme: dark)">
         <img 
-          src="https://github-readme-languages.vercel.app/api?username=gggggeric&theme=light" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=gggggeric&theme=light" 
           alt="gggggeric" />
       </picture>
     </td>
   </tr>
 </table>
+
 
 
 
