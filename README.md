@@ -1,25 +1,30 @@
 <h1 align="left">Hello World!</h1>
 
 
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=gggggeric&show_icons=true&locale=en&theme=dark"
-      media="(prefers-color-scheme: dark)">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=gggggeric&show_icons=true&locale=en&theme=light" 
-      alt="gggggeric" />
-  </picture>
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=gggggeric&theme=dark"
-      media="(prefers-color-scheme: dark)">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=gggggeric&theme=light" 
-      alt="gggggeric" />
-  </picture>
-</div>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source 
+          srcset="https://github-readme-stats.vercel.app/api?username=gggggeric&show_icons=true&locale=en&theme=dark"
+          media="(prefers-color-scheme: dark)">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=gggggeric&show_icons=true&locale=en&theme=light" 
+          alt="gggggeric" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source 
+          srcset="https://github-readme-streak-stats.herokuapp.com/?user=gggggeric&theme=dark"
+          media="(prefers-color-scheme: dark)">
+        <img 
+          src="https://github-readme-streak-stats.herokuapp.com/?user=gggggeric&theme=light" 
+          alt="gggggeric" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 
 <p align="left">My name is Geric and I'm a 3rd year student, from Technological University of the Philippines - Taguig</p>
