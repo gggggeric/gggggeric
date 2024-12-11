@@ -35,8 +35,8 @@
 <h2 align="center">About me</h2>
 <p align="center">
   👨‍💻 Information Technology student, from TUP - Taguig<br> 
-  ✨ Creating bugs since 2022<br> 
   📚 Currently learning React Native and TypeScript 🚀<br> 
+  ✨ Creating bugs since 2022<br> 
   💻 Full Stack Developer
 </p>
 
