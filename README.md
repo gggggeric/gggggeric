@@ -58,8 +58,9 @@
   <a href="https://fb.com/geric.morit.t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geric.morit.t" height="30" width="40" /></a>
   <a href="https://instagram.com/https.cireg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https.cireg" height="30" width="40" /></a>
 <a href="mailto:gericmorit3211@gmail.com">
-  <img align="center" src="https://ibb.co/9cXPgvV" alt="Gmail" height="30" width="40" />
+  <img align="center" src="https://i.ibb.co/9cXPgvV/gmail-logo.png" alt="Gmail" height="30" width="40" />
 </a>
+
 
 
 </p>
