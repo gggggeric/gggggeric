@@ -13,16 +13,6 @@
       <td>
         <picture>
           <source 
-            srcset="https://github-readme-stats.vercel.app/api?username=gggggeric&show_icons=true&locale=en&theme=dark"
-            media="(prefers-color-scheme: dark)">
-          <img 
-            src="https://github-readme-stats.vercel.app/api?username=gggggeric&show_icons=true&locale=en&theme=light" 
-            alt="gggggeric" width="400" />
-        </picture>
-      </td>
-      <td>
-        <picture>
-          <source 
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gggggeric&theme=dark"
             media="(prefers-color-scheme: dark)">
           <img 
