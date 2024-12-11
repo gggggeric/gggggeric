@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+World!;+My+name+is+Geric+Morit;+Welcome+to+my+profile!" />
 </div>
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <div>
     <picture>
       <source 
@@ -24,6 +24,7 @@
     </picture>
   </div>
 </div>
+
 
 
 
