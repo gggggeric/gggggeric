@@ -1,8 +1,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+World!;+My+name+is+Geric+Morit;+Welcome+to+my+profile!" />
 </div>
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="display: flex; flex-direction: column; justify-content: flex-start;">
+
+
+<div style="display: flex; gap: 20px;">
+  <div style="display: flex; align-items: flex-start;">
     <picture>
       <source 
         srcset="https://github-readme-stats.vercel.app/api?username=gggggeric&show_icons=true&locale=en&theme=dark"
@@ -12,7 +14,7 @@
         alt="gggggeric" width="400" />
     </picture>
   </div>
-  <div style="display: flex; flex-direction: column; justify-content: flex-start;">
+  <div style="display: flex; align-items: flex-start;">
     <picture>
       <source 
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gggggeric&theme=dark"
@@ -23,7 +25,6 @@
     </picture>
   </div>
 </div>
-
 
 
 
