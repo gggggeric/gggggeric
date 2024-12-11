@@ -65,8 +65,8 @@
 </a>
 </p>
 
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=$.count&url=https://api.countapi.xyz/hit/gggggeric/visitor)
 
+https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=$.count&url=https://api.countapi.xyz/hit/gggggeric/visitor
 
 
 
