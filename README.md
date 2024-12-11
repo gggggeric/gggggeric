@@ -44,7 +44,6 @@
   👨‍💻 Information Technology student, from Technological University of the Philippines - Taguig<br> 
   📚 Currently learning React Native and TypeScript 🚀<br> 
   ✨ Creating bugs since 2022<br> 
-  💻 Full Stack Developer
 </p>
 
 <p align="center">
