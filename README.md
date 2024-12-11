@@ -5,7 +5,7 @@
 
 ###
 
-<table border="0" cellpadding="100">
+<table border="0" cellpadding="20" style="margin: 0 auto;">
   <tr>
     <td>
       <picture>
@@ -29,6 +29,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
