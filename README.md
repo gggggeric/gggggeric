@@ -8,7 +8,10 @@
 
 ###
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gggggeric&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gggggeric&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 
 
