@@ -1,6 +1,6 @@
 ###
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+World!;+My+name+is+Geric+Morit;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+World!;" />
 </div>
 
 
@@ -10,8 +10,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gggggeric&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <br><br> <!-- Adds spacing between images -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gggggeric&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 
 
