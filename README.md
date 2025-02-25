@@ -7,20 +7,6 @@
 ![snake gif](https://github.com/gggggeric/gggggeric/blob/output/github-snake-dark.svg)
 
 ###
-<div align="center">
-  <table border="0" cellpadding="20">
-    <tr>
-      <td>
-        <picture>
-          <source 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gggggeric&theme=dark"
-            media="(prefers-color-scheme: dark)">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gggggeric&layout=compact&theme=dark" alt="gggggeric" width="500" />
-        </picture>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 
