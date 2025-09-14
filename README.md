@@ -22,7 +22,15 @@
 </p>
 
 
+<h2 align="center">📜 Certifications</h2>
+<p align="center">
+  Here are some of the certifications I've earned:
+</p>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2135e8b4-e01a-47d6-9117-9e1bfe5f192e" alt="R Certification" width="400" />
+  <img src="https://github.com/user-attachments/assets/decd95df-3996-4b95-b044-9397bfdfac87" alt="Intro to Prompt Engineering" width="400" />
+</div>
 
 ###
 
