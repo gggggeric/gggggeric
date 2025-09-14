@@ -21,15 +21,20 @@
   <img src="https://github.com/user-attachments/assets/ffcbd4f3-3e8a-4bf4-b32f-bb83694e7f63" alt="ratchet-cat-reply-ratchet" style="max-height: 100px;">
 </p>
 
-
 <h2 align="center">📜 Certifications</h2>
 <p align="center">
   Here are some of the certifications I've earned:
 </p>
 
 <div align="center">
+  <!-- Left column -->
   <img src="https://github.com/user-attachments/assets/2135e8b4-e01a-47d6-9117-9e1bfe5f192e" alt="R Certification" width="400" />
-  <img src="https://github.com/user-attachments/assets/decd95df-3996-4b95-b044-9397bfdfac87" alt="Intro to Prompt Engineering" width="400" />
+
+  <!-- Right column -->
+  <div style="display: inline-block; vertical-align: top;">
+    <img src="https://github.com/user-attachments/assets/92e22e59-fb40-423d-a018-43dd3b8efe8a" alt="R Badge" width="200" /><br>
+    <img src="https://github.com/user-attachments/assets/decd95df-3996-4b95-b044-9397bfdfac87" alt="Intro to Prompt Engineering" width="400" />
+  </div>
 </div>
 
 ###
