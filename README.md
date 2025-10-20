@@ -20,13 +20,13 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ffcbd4f3-3e8a-4bf4-b32f-bb83694e7f63" alt="ratchet-cat-reply-ratchet" style="max-height: 100px;">
 </p>
-### 
+
 <div align="center">
   <a href="https://geric-morit.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio">
   </a>
 </div>
-###
+
 <h2 align="center">📜 Certifications</h2>
 <p align="center">
   Here are some of the certifications I've earned:
