@@ -22,7 +22,7 @@
 </p>
 
 <div align="center">
-  <a href="https://geric-morit.onrender.com" target="_blank">
+  <a href="https://geric.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio">
   </a>
 </div>
