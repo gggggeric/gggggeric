@@ -1,68 +1,63 @@
-# 🕹️ READY PLAYER ONE: GERIC MORIT
-
+###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gggggeric&show_icons=true&theme=tokyonight&bg_color=000&title_color=ffff00&text_color=ff00ff&icon_color=00ffff&border_color=2121ff" alt="Geric's High Score" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+World!;" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/STATUS-READY_PLAYER_01-ffff00?style=for-the-badge&logoColor=black" alt="Status" />
-  <img src="https://img.shields.io/badge/RANK-ELITE_ARCHITECT-ff00ff?style=for-the-badge" alt="Rank" />
-  <img src="https://img.shields.io/badge/CREDITS-999999-00ffff?style=for-the-badge" alt="Credits" />
-</div>
 
----
+![snake gif](https://github.com/gggggeric/gggggeric/blob/output/github-snake-dark.svg)
 
-## 📜 CHARACTER_BIO (ABOUT ME)
+###
 
-> [!NOTE]
-> **INITIALIZING MISSION...**
-> I am a **Web Architect** specializing in building digital ecosystems and high-performance pixels. My mission is to architect seamless user experiences while defending the codebase from bugs.
 
-- 📍 **CURRENT_MAP:** Manila, Philippines 🇵🇭
-- 🛠️ **EQUIPPED:** Next.js, React, Node.js, Supabase
-- 🎯 **CURRENT_QUEST:** Scaling the digital frontier with Grade-A code.
-
----
-
-## 🛠️ TECH_ARSENAL (POWER-UPS)
-
-| CATEGORY | GEAR / SKILLS |
-| :--- | :--- |
-| **FRONTEND** | `Next.js` `React` `Tailwind CSS` `TypeScript` |
-| **BACKEND** | `Node.js` `Supabase` `PostgreSQL` `REST API` |
-| **TOOLS** | `Git` `Vercel` `Cursor` `Postman` |
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gggggeric&layout=compact&theme=tokyonight&bg_color=000&title_color=ffff00&text_color=ff00ff&border_color=2121ff" alt="Top Languages" />
-</div>
-
----
-
-## 🕹️ MISSION_LOG (CURRENT PROJECTS)
-
-- 🚀 **[PORTFOLIO 2.0](https://portfolio-geric.vercel.app)** - My personal command center.
-- 🏗️ **[BACKEND SYSTEMS]** - Architecting high-availability secure data mazes.
-
----
-
-## 🏁 GAME_OVER? (LET'S COLLABORATE)
-
-**WANT TO ADD PLAYER 01 TO YOUR SQUAD?**
-
-- 📮 **TRANSMISSION:** [gericmorit3211@gmail.com](mailto:gericmorit3211@gmail.com)
-- 🐙 **GITHUB:** [@gggggeric](https://github.com/gggggeric)
-- 🌐 **WEBSITE:** [gericmorit.me](https://portfolio-geric.vercel.app)
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/2121ff/gggggeric" alt="Geric's Contribution Graph" />
-</div>
-
----
+###
+<h2 align="center">About me</h2>
+<p align="center">
+  👨‍💻 Information Technology student, from Technological University of the Philippines - Taguig<br> 
+  📚 Currently learning React Native and TypeScript 🚀<br> 
+  ✨ Creating bugs since 2022<br> 
+</p>
 
 <p align="center">
-  <i>"END OF LINE. © 2026 GERIC MORIT | PORTFOLIO ENGINE v2.0"</i>
+  <img src="https://github.com/user-attachments/assets/ffcbd4f3-3e8a-4bf4-b32f-bb83694e7f63" alt="ratchet-cat-reply-ratchet" style="max-height: 100px;">
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/CONTINUE?-10._09._08...-red?style=flat-square" alt="Continue" />
+  <a href="https://geric-morit.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio">
+  </a>
 </div>
+
+<h2 align="center">📜 Certifications</h2>
+<p align="center">
+  Here are some of the certifications I've earned:
+</p>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2135e8b4-e01a-47d6-9117-9e1bfe5f192e" alt="R Certification" width="400" />
+  <img src="https://github.com/user-attachments/assets/decd95df-3996-4b95-b044-9397bfdfac87" alt="Intro to Prompt Engineering" width="400" />
+</div>
+
+###
+
+<h3 align="left">My current deployed projects are: </h3>
+<ul>
+  <li>🛡️ <a href="https://cryptoguard-fec8.onrender.com/" target="_blank">CryptoGuard</a> - A tool for encrypting and decrypting files</li>
+    <li>🏫 <a href="https://upperbicutannationalhighschool-h86l.onrender.com" target="_blank">Upper Bicutan National High School</a> - A website mimicking UBNHS website </li>
+    <li>🏫 <a href="https://tupt-counseling.onrender.com" target="_blank">TUPT-Counseling Scheduler</a> - A website used for scheduling appointments regarding to mental health issues </li>
+</ul>
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+###
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://fb.com/geric.morit.t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geric.morit.t" height="30" width="40" /></a>
+  <a href="https://instagram.com/https.cireg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https.cireg" height="30" width="40" /></a>
+<a href="mailto:gericmorit3211@gmail.com">
+  <img align="center" src="https://i.ibb.co/C9ZhdpW/gmail-logo.png" alt="Gmail" height="40" width="40" />
+</a>
+</p>
