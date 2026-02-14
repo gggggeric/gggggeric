@@ -1,50 +1,57 @@
 # 🕹️ READY PLAYER ONE: GERIC MORIT
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gggggeric&show_icons=true&theme=tokyonight&bg_color=000&title_color=ffff00&text_color=ff00ff&icon_color=00ffff&border_color=2121ff" alt="Geric's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gggggeric&show_icons=true&theme=tokyonight&bg_color=000&title_color=ffff00&text_color=ff00ff&icon_color=00ffff&border_color=2121ff" alt="Geric's High Score" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-READY_PLAYER_01-ffff00?style=for-the-badge&logoColor=black" alt="Status" />
-  <img src="https://img.shields.io/badge/LEVEL-99-ff00ff?style=for-the-badge" alt="Level" />
-  <img src="https://img.shields.io/badge/CREDITS-INSERT_COIN-00ffff?style=for-the-badge" alt="Credits" />
+  <img src="https://img.shields.io/badge/RANK-ELITE_ARCHITECT-ff00ff?style=for-the-badge" alt="Rank" />
+  <img src="https://img.shields.io/badge/CREDITS-999999-00ffff?style=for-the-badge" alt="Credits" />
 </div>
 
 ---
 
-## 📜 MISSION LOG: ARCHITECTING DIGITAL MAZES
+## 📜 CHARACTER_BIO (ABOUT ME)
 
-Welcome to the command center. I am a **Web Architect** specializing in high-performance pixels and secure data mazes.
+> [!NOTE]
+> **INITIALIZING MISSION...**
+> I am a **Web Architect** specializing in building digital ecosystems and high-performance pixels. My mission is to architect seamless user experiences while defending the codebase from bugs.
 
-### 🛠️ TECH ARSENAL (POWER-UPS)
+- 📍 **CURRENT_MAP:** Manila, Philippines 🇵🇭
+- 🛠️ **EQUIPPED:** Next.js, React, Node.js, Supabase
+- 🎯 **CURRENT_QUEST:** Scaling the digital frontier with Grade-A code.
+
+---
+
+## 🛠️ TECH_ARSENAL (POWER-UPS)
+
+| CATEGORY | GEAR / SKILLS |
+| :--- | :--- |
+| **FRONTEND** | `Next.js` `React` `Tailwind CSS` `TypeScript` |
+| **BACKEND** | `Node.js` `Supabase` `PostgreSQL` `REST API` |
+| **TOOLS** | `Git` `Vercel` `Cursor` `Postman` |
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gggggeric&layout=compact&theme=tokyonight&bg_color=000&title_color=ffff00&text_color=ff00ff&border_color=2121ff" alt="Top Languages" />
 </div>
 
-- **FE:** Next.js, React, Tailwind CSS, Lucide Icons
-- **BE:** Node.js, EmailJS, Supabase
-- **EXP:** Backend Development @ Inspire Holdings Inc.
+---
+
+## 🕹️ MISSION_LOG (CURRENT PROJECTS)
+
+- 🚀 **[PORTFOLIO 2.0](https://portfolio-geric.vercel.app)** - My personal command center.
+- 🏗️ **[BACKEND SYSTEMS]** - Architecting high-availability secure data mazes.
 
 ---
 
-## 🎮 MISSION SELECTION (PROJECTS)
+## 🏁 GAME_OVER? (LET'S COLLABORATE)
 
-Check out the main portfolio for the full arcade experience:
-👉 [**PORTFOLIO 2.0**](https://portfolio-geric.vercel.app)
-
-### 🕹️ CURRENT_QUESTS:
-- **[LEVEL 01: FEATURED]** - Architecting high-performance digital solutions.
-- **[GLOBAL NETWORK]** - Monitoring mission activity and deployment history.
-
----
-
-## 🏁 GAME OVER? (CONTACT)
-
-**RETRY? NO. LEVEL UP YOUR TEAM BY HIRING PLAYER 01.**
+**WANT TO ADD PLAYER 01 TO YOUR SQUAD?**
 
 - 📮 **TRANSMISSION:** [gericmorit3211@gmail.com](mailto:gericmorit3211@gmail.com)
 - 🐙 **GITHUB:** [@gggggeric](https://github.com/gggggeric)
+- 🌐 **WEBSITE:** [gericmorit.me](https://portfolio-geric.vercel.app)
 
 <div align="center">
   <img src="https://ghchart.rshah.org/2121ff/gggggeric" alt="Geric's Contribution Graph" />
@@ -53,6 +60,9 @@ Check out the main portfolio for the full arcade experience:
 ---
 
 <p align="center">
-  <i>CONTINUE? 10. 09. 08... © 2026 GERIC MORIT</i>
+  <i>"END OF LINE. © 2026 GERIC MORIT | PORTFOLIO ENGINE v2.0"</i>
 </p>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/CONTINUE?-10._09._08...-red?style=flat-square" alt="Continue" />
+</div>
