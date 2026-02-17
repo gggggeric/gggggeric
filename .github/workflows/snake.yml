@@ -17,6 +17,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      - name: Create stage directory
+        run: mkdir -p stage
+
       # Dark Theme Generation
       - name: Generate Pac-Man (Dark)
         uses: abozanona/pacman-contribution-graph@main
@@ -25,9 +28,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           theme: github-dark
       
-      - name: Rename and Move Dark
+      - name: Move Dark SVG
         run: |
-          mkdir -p stage
           if [ -f pacman-contribution-graph.svg ]; then mv pacman-contribution-graph.svg stage/pacman-dark.svg; fi
           if [ -f dist/pacman-contribution-graph.svg ]; then mv dist/pacman-contribution-graph.svg stage/pacman-dark.svg; fi
 
@@ -39,7 +41,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           theme: github
       
-      - name: Rename and Move Light
+      - name: Move Light SVG
         run: |
           if [ -f pacman-contribution-graph.svg ]; then mv pacman-contribution-graph.svg stage/pacman-light.svg; fi
           if [ -f dist/pacman-contribution-graph.svg ]; then mv dist/pacman-contribution-graph.svg stage/pacman-light.svg; fi

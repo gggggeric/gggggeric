@@ -10,10 +10,14 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gggggeric/gggggeric/output/pacman-dark.svg#gh-dark-mode-only" alt="Pac-man contribution graph" width="100%">
-  <img src="https://raw.githubusercontent.com/gggggeric/gggggeric/output/pacman-light.svg#gh-light-mode-only" alt="Pac-man contribution graph" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gggggeric/gggggeric/output/pacman-dark.svg">
+    <img src="https://raw.githubusercontent.com/gggggeric/gggggeric/output/pacman-light.svg" alt="Pac-man contribution graph" width="100%">
+  </picture>
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%96%B6-INSERT%20COIN%20TO%20INTERACT-FFD700?style=for-the-badge&logo=retroarch&logoColor=black" alt="Start Game">
+  <a href="https://geric.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%96%B6-INSERT%20COIN%20TO%20INTERACT-FFD700?style=for-the-badge&logo=retroarch&logoColor=black" alt="Start Game">
+  </a>
 </div>
