@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 50">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <text x="50%" y="35" font-family="'Courier New', Courier, monospace" font-size="28" font-weight="bold" fill="#FFFF00" text-anchor="middle" filter="url(#glow)" style="text-shadow: 0 0 10px #FFFF00;">
+    == HIGH SCORES ==
+  </text>
+</svg>
