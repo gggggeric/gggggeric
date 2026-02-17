@@ -10,10 +10,8 @@
 <br>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gggggeric/gggggeric/output/pacman-dark.svg">
-    <img src="https://raw.githubusercontent.com/gggggeric/gggggeric/output/pacman-light.svg" alt="Pac-man contribution graph" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/gggggeric/gggggeric/output/pacman-dark.svg#gh-dark-mode-only" alt="Pac-man contribution graph (Dark)" width="100%">
+  <img src="https://raw.githubusercontent.com/gggggeric/gggggeric/output/pacman-light.svg#gh-light-mode-only" alt="Pac-man contribution graph (Light)" width="100%">
 </p>
 
 <div align="center">
