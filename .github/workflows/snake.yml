@@ -23,11 +23,11 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: github-dark
       
       - name: Rename and Move Dark
         run: |
           mkdir -p stage
-          # Check root and dist for the output
           if [ -f pacman-contribution-graph.svg ]; then mv pacman-contribution-graph.svg stage/pacman-dark.svg; fi
           if [ -f dist/pacman-contribution-graph.svg ]; then mv dist/pacman-contribution-graph.svg stage/pacman-dark.svg; fi
 
@@ -37,19 +37,18 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # The action might not support 'theme' input, so we generate with default and see.
-          # Some search results say it works, some don't.
+          theme: github
       
       - name: Rename and Move Light
         run: |
           if [ -f pacman-contribution-graph.svg ]; then mv pacman-contribution-graph.svg stage/pacman-light.svg; fi
           if [ -f dist/pacman-contribution-graph.svg ]; then mv dist/pacman-contribution-graph.svg stage/pacman-light.svg; fi
 
-      # Deploy
+      # Deploy to output branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./stage
           publish_branch: output
-          commit_message: "Update Pac-Man animations [skip ci]"
+          commit_message: "Update Pac-Man animations (Themed) [skip ci]"
