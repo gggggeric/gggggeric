@@ -48,29 +48,12 @@ jobs:
 
 
 
-      # Step 2: Generate the snake animations
-
-      - name: Generate GitHub Contributions Snake Animations
-
-        uses: Platane/snk@v3
-
+      # Step 2: Generate Pac-Man Animation
+      - name: Generate Pac-Man Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
-
-          # GitHub username to generate the animation for
-
           github_user_name: ${{ github.repository_owner }}
-
-
-
-          # Define the output files and their configurations
-
-          outputs: |
-            dist/github-pacman.svg?theme=pacman
-            dist/github-pacman-dark.svg?palette=github-dark&theme=pacman
-
-        env:
-
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
 
 
@@ -90,4 +73,4 @@ jobs:
 
           # Optionally, you can set a custom commit message
 
-          commit_message: "Update snake animation [skip ci]"
+          commit_message: "Update Pac-Man animation [skip ci]"
