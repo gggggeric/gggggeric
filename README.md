@@ -9,6 +9,10 @@
 
 <br>
 
+<p align="center">
+  <img src="https://github.com/gggggeric/gggggeric/blob/output/github-pacman-dark.svg" alt="Pac-man eat commit dates" width="100%">
+</p>
+
 <div align="center">
   <img src="https://img.shields.io/badge/%E2%96%B6-INSERT%20COIN%20TO%20INTERACT-FFD700?style=for-the-badge&logo=retroarch&logoColor=black" alt="Start Game">
 </div>
