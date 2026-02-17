@@ -65,9 +65,7 @@ jobs:
           # Define the output files and their configurations
 
           outputs: |
-
             dist/github-pacman.svg?theme=pacman
-
             dist/github-pacman-dark.svg?palette=github-dark&theme=pacman
 
         env:

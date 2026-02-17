@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/gggggeric/gggggeric/blob/output/github-pacman-dark.svg" alt="Pac-man eat commit dates" width="100%">
+  <img src="https://raw.githubusercontent.com/gggggeric/gggggeric/output/github-pacman-dark.svg" alt="Pac-man eat commit dates" width="100%">
 </p>
 
 <div align="center">
