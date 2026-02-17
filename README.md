@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/github_header.png" width="100%" alt="Header Banner" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=530&height=70&duration=3000&lines=READY+PLAYER+ONE...;+LEVEL+UP+YOUR+PROJECTS...;+INSERT+COIN+TO+START!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=530&height=70&duration=5000&lines=READY+PLAYER+ONE...;+LEVEL+UP+YOUR+PROJECTS...;+INSERT+COIN+TO+START!;" />
 </div>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=20&center=true&vCenter=true&width=530&height=40&duration=1&lines=%3D%3D+CHARACTER+PROFILE+%3D%3D&color=00FFFF&vCenter=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=20&center=true&vCenter=true&width=600&height=50&duration=1000000&lines=%3D%3D+CHARACTER+PROFILE+%3D%3D&color=00FFFF&vCenter=true&repeat=false" />
 </div>
 
 <div align="center">
@@ -45,15 +45,17 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=20&center=true&vCenter=true&width=530&height=40&duration=1&lines=%3D%3D+TECH+ARSENAL+%3D%3D&color=FF00FF&vCenter=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=20&center=true&vCenter=true&width=600&height=50&duration=1000000&lines=%3D%3D+TECH+ARSENAL+%3D%3D&color=FF00FF&vCenter=true&repeat=false" />
   <br>
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,django,dotnet,html,java,js,linux,mariadb,mongodb,mysql,nodejs,php,python,react,sqlite,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,django,dotnet,html,java,js,linux" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mariadb,mongodb,mysql,nodejs,php,python,react,sqlite,ts&theme=dark" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=20&center=true&vCenter=true&width=530&height=40&duration=1&lines=%3D%3D+HIGH+SCORES+%3D%3D&color=FFD700&vCenter=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=20&center=true&vCenter=true&width=600&height=50&duration=1000000&lines=%3D%3D+HIGH+SCORES+%3D%3D&color=FFD700&vCenter=true&repeat=false" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=gggggeric&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gggggeric&layout=compact&theme=radical&hide_border=true" height="150" />
