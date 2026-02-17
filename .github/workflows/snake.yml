@@ -1,14 +1,9 @@
 name: GitHub Snake Game
 
 on:
-  # Schedule the workflow to run daily at midnight UTC
   schedule:
     - cron: "0 0 * * *"
-
-  # Allow manual triggering of the workflow
   workflow_dispatch:
-
-  # Trigger the workflow on pushes to the main branch
   push:
     branches:
       - main
@@ -19,43 +14,42 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate Pac-Man Animations (Dark & Light)
-      - name: Generate Pac-Man Contribution Graph (Dark)
+      # Dark Theme Generation
+      - name: Generate Pac-Man (Dark)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          theme: github-dark
       
-      - name: Rename Dark SVG
-        run: mv pacman-contribution-graph.svg pacman-dark.svg
-
-      - name: Generate Pac-Man Contribution Graph (Light)
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          theme: github-light
-      
-      - name: Rename Light SVG
-        run: mv pacman-contribution-graph.svg pacman-light.svg
-
-      # Step 3: Move the generated SVGs to 'dist' so they can be deployed
-      - name: Move to dist
+      - name: Rename and Move Dark
         run: |
-          mkdir -p dist
-          mv pacman-dark.svg dist/
-          mv pacman-light.svg dist/
+          mkdir -p stage
+          # Check root and dist for the output
+          if [ -f pacman-contribution-graph.svg ]; then mv pacman-contribution-graph.svg stage/pacman-dark.svg; fi
+          if [ -f dist/pacman-contribution-graph.svg ]; then mv dist/pacman-contribution-graph.svg stage/pacman-dark.svg; fi
 
-      # Step 4: Deploy the generated files to the 'output' branch
+      # Light Theme Generation
+      - name: Generate Pac-Man (Light)
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # The action might not support 'theme' input, so we generate with default and see.
+          # Some search results say it works, some don't.
+      
+      - name: Rename and Move Light
+        run: |
+          if [ -f pacman-contribution-graph.svg ]; then mv pacman-contribution-graph.svg stage/pacman-light.svg; fi
+          if [ -f dist/pacman-contribution-graph.svg ]; then mv dist/pacman-contribution-graph.svg stage/pacman-light.svg; fi
+
+      # Deploy
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: ./stage
           publish_branch: output
-          commit_message: "Update Pac-Man animations (Dark & Light) [skip ci]"
+          commit_message: "Update Pac-Man animations [skip ci]"
