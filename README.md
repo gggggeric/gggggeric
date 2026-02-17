@@ -2,7 +2,7 @@
   <a href="https://geric.vercel.app" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=250&lines=%253Cgggggeric%2B%252F%253E;Full+Stack+Developer">
-      <img alt="geric_card" src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=35&pause=1000&color=00C8C8&center=true&vCenter=true&width=800&height=250&lines=%253Cgggggeric%2B%252F%253E;Full+Stack+Developer">
+      <img alt="geric_card" src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=35&pause=1000&color=222222&center=true&vCenter=true&width=800&height=250&lines=%253Cgggggeric%2B%252F%253E;Full+Stack+Developer">
     </picture>
   </a>
 </div>
@@ -10,7 +10,10 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gggggeric/gggggeric/output/pacman-contribution-graph.svg" alt="Pac-man eat commit dates" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gggggeric/gggggeric/output/pacman-dark.svg">
+    <img src="https://raw.githubusercontent.com/gggggeric/gggggeric/output/pacman-light.svg" alt="Pac-man contribution graph" width="100%">
+  </picture>
 </p>
 
 <div align="center">
